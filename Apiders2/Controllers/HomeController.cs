@@ -10,7 +10,7 @@ namespace Apiders2.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Home Page"; // yeni eklendi
 
             return View();
         }
